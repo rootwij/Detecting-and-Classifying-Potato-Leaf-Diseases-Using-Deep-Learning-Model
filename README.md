@@ -111,9 +111,7 @@ python src/train.py
 🎓 **Supervisor:**  
 Mr. Vipin Kumar Chaudhary, Lovely Professional University
 
-📫 **Contact Emails:**  
-- abhishekpandey12121@gmail.com  
-- rutupadhyay2003@gmail.com  
+
 
 ---
 
