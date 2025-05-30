@@ -115,14 +115,11 @@ Mr. Vipin Kumar Chaudhary, Lovely Professional University
 
 ---
 
-## 9️⃣ License
 
-📝 Licensed under the [MIT License](LICENSE).  
-Feel free to use and modify for non-commercial purposes with proper credit.
 
 ---
 
-## 🔟 Acknowledgements
+##  Acknowledgements
 
 Thanks to **Lovely Professional University** for academic support and to our supervisor **Mr. Vipin Kumar Chaudhary** for technical guidance.
 
